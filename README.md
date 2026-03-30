@@ -26,3 +26,6 @@ pip install -r requirements.txt
 
 '''bash
 python3 live_checker.py -i subs.txt -o live.txt
+
+## Use cases:
+Bug Bounty, Recon, Assest Discovery.
